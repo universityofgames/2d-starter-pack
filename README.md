@@ -11,6 +11,7 @@ Do you need more icons for your production? Check the full version of our packag
 - <b>[Potion Pack](https://assetstore.unity.com/packages/2d/gui/icons/potion-pack-2d-sprites-80142)</b>
 - <b>[Diamonds Pack](https://assetstore.unity.com/packages/2d/gui/icons/diamonds-pack-2d-sprites-80140)</b>
 
+* * *
 
 ### Need help?
 
