@@ -1,6 +1,6 @@
 <img width="851" alt="Zrzut ekranu 2021-08-25 o 10 28 45" src="https://user-images.githubusercontent.com/10097678/130756068-596f5025-977f-4460-87a9-8e6f1afb3a4c.png">
 
-# 2d-starter-pack
+# 2D Starter Pack
 Everything you need to start simple 2D game. This repository contains starter pack of <b>Coins Pack</b>, <b>Star Pack</b>, <b>Potion Pack</b> and <b>Diamonds Pack</b> made by University of Games. All available graphics are of a high quality. It is a good choice for cartoon game.
 
 * * *
