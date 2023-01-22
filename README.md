@@ -15,6 +15,11 @@ Do you need more icons for your production? Check the full version of our packag
 
 * * *
 
+### Check our others Unity package
+➡️ You can also find our other solutions on the **[Unity Asset Store](https://assetstore.unity.com/publishers/25633)**
+
+* * *
+
 ### Need help?
 
 University of Games is a research center - great place for indie game developers and young publishers. Thanks to more than 10+ years of experience in the industry, we provide knowledge and solutions in the area of technology research, game design, marketing, consulting and business advisory.
